@@ -1,0 +1,38 @@
+.wrapper {
+    margin: 0 auto;
+    width: 85%;
+}
+
+div {
+    margin: 25px 0;
+}
+
+div#areaClicked {
+    font-size: 2em;
+    color: blue;
+}
+
+div#elementClicked {
+    font-size: 2em;
+    color: green;
+}
+
+
+.mystyle {
+    width: 100%;
+    padding: 20px 50px;
+    background-color: coral;
+    color: white;
+    font-size: 25px;
+    box-sizing: border-box;
+
+}
+
+button {
+    color: white;
+    font-size: 25px;
+    border-radius: 25px;
+    background-color: orange;
+    padding: 20px 50px;
+    border-color: 2px solid black;
+}
